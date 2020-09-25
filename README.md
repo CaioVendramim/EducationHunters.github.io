@@ -34,7 +34,7 @@ Andamento:
 10 - Configuração do template da página de produtos
 
 Gestão de projeto:
-•Kanban:
+•Kanban: https://tasks.office.com/fatec.sp.gov.br/pt-BR/Home/Planner/#/plantaskboard?groupId=3f8f5027-9993-4869-8ea1-33e413ff09c3&planId=4Ct4U2B35EK8m75xvShLuGQAFMHD
 
 •Amostra do site: https://www.figma.com/file/Sffj2QonJOJ54BU4vc3pn2/SITE-EDUCANDO-PI
 
