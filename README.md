@@ -1,43 +1,85 @@
-# MountainWolves
-Grupo para acompanhar os nossos projetos! Group to keep it save and keep ir doing! 
+Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal
+# Education Hunter - Projeto Integrador
 
-Projeto Integrador:
+Sprint 0 | Sprint 1 | Sprint 2 | Sprint 3 
 
-Situção: Cliente solicitou que a equipe desenvolvesse um e-commerce para produtos educacionais.
+### O que é?
+O projeto visa criar uma plataforma e-commerce para venda de material didático. Site deve conter pelo menos 1 vídeo e 1 jogo. ]
+Necessário que haja:
+ * Cadastro de usuário
+ * Cadastro de conteúdo
+ * Carrinho de compras (Cartões e Carteira de Saldo)
+ * Relatório de vendas
+ * Vendas de conteúdos didáticos
+ * Videos, textos e jogos
+ * Customização do sistema(rosto) - fechamento (cliente fecha pedido)
 
-•cadastro de usuario
-•cadastro de conteúdo
-•carrinho de compras
-•Interface para saldo de credito
-•relatório de vendas
-•Vendas de conteúdos didáticos
-•Videos, textos e jogos
-•Customização do sistema(rosto) - fechamento (cliente fecha pedido)
-•Entrega de Resultados
+### Team Members
+* GABRIEL HIROMI SHISHIDO -- Scrum Master
+* JOAO VITOR EVARISTO DA SILVA -- Vice Scrum / Projetista
+* JULIANA DA GLORIA FRANCISCO -- Operacional
+* CAIO AUGUSTO BARBOSA VENDRAMIM -- Developer (Front & Backend)
 
-Equipe 5 - Mountain Wolves
-•Renato Hidalgo Santos
-•Rita de Cassia Ferreira
-•Caio Augusto Barbosa Vendramim
-•Gabriel Hiromi Shishido
-•Juliana da Gloria Francisco
-•Diogo Luiz Troyli Pedrozo de Souza
-•Jonathan Gabriel de Assis
+Team Members Linkedin:
+* [Gabriel]()
+* [João]()
+* [Juliana](https://www.linkedin.com/in/juliana-francisco-433a4492)
+* [Caio](https://www.linkedin.com/in/caio-augusto-barbosa-vendramim-00813673)
 
-Andamento:
 
-1 - Página para o template padrão
-2 - Configuração do template
-7 - Configuração do template da página de administração
-8 - Configuração do template da página de login
-9 - Configuração do template da página de usuário
-10 - Configuração do template da página de produtos
 
-Gestão de projeto:
-•Kanban: https://tasks.office.com/fatec.sp.gov.br/pt-BR/Home/Planner/#/plantaskboard?groupId=3f8f5027-9993-4869-8ea1-33e413ff09c3&planId=4Ct4U2B35EK8m75xvShLuGQAFMHD
+#### Sprint 0:
+* Objetivo: Pesquisar sobre o tema proposto, sobre as ferramentas que serão utilizadas na resolução 
+do problema e desenvolver a primeira página da plataforma com a visualização do mapa e uma ferramenta básica de seleção
 
-•Amostra do site: https://www.figma.com/file/Sffj2QonJOJ54BU4vc3pn2/SITE-EDUCANDO-PI
+* Documentation
 
-•Amostra do site com botões: https://www.figma.com/proto/Sffj2QonJOJ54BU4vc3pn2/SITE-EDUCANDO-PI?node-id=23%3A10&scaling=scale-down
+* Backlog
 
-•PPT: https://fatecspgov-my.sharepoint.com/:p:/g/personal/gabriel_shishido_fatec_sp_gov_br/EfTHfAQMIvRPvMV6merWFfABGzYKXer1_XlWjxNLJbC3oQ?rtime=nRPlQwxg2Eg
+* Burndown Trend
+
+
+### Sprint 1:
+* Objetivo: Criar um modelo simples de IA de classificação de imagens, desenvolver uma API de inferface para o WebGIS e um banco de dados para o armazenamento das máscaras geradas pelo serviço de IA.
+
+* Documentation
+
+* Backlog
+
+* Burndown Trend
+
+* Vídeo Explicativo
+
+### Sprint 2:
+* Objetivo: Atualizar o modelo de IA para imagens de satélite, contrução do Catálogo de Imagens no WebGIS, simplificação da API e do banco de dados e incorporação da API do Imgur como forma de armazenamento e acesso as imagens geradas pelo serviço de IA.
+ 
+* Documentation
+
+* Backlog
+
+* Burndown Trend
+
+* Vídeo Explicativo
+
+### Sprint 3:
+* Objetivo: Melhoramento do serviço de IA com o aperfeiçoamento das redes neuraris e estabelecer conexão com o backend, Reestruturação do catalogo de imagem.
+
+* Documentation
+
+* Backlog
+
+* Burndown Trend
+
+* Vídeo Explicativo
+
+
+### Tecnologias utilizadas:
+* Visual Studio Code
+
+* Figma(Esboço do Site)
+
+* Photoshop(Edições)
+
+* PhP 
+
+* MySQL para banco de dados
