@@ -29,49 +29,23 @@ Team Members Linkedin:
 
 
 #### Sprint 0:
-* Objetivo: Pesquisar sobre o tema proposto, sobre as ferramentas que serão utilizadas na resolução 
-do problema e desenvolver a primeira página da plataforma com a visualização do mapa e uma ferramenta básica de seleção
-
-* Documentation
-
+* Objetivo: Pesquisar sobre o tema proposto e criar um prótotipo para o site.
 * Backlog
-
-* Burndown Trend
-
 
 ### Sprint 1:
-* Objetivo: Criar um modelo simples de IA de classificação de imagens, desenvolver uma API de inferface para o WebGIS e um banco de dados para o armazenamento das máscaras geradas pelo serviço de IA.
-
-* Documentation
-
+* Objetivo: Criação da página home em HTML(rosto). Definição de funcionalidades básicas e de modelo de negócio.
 * Backlog
-
-* Burndown Trend
-
-* Vídeo Explicativo
+* Site 
 
 ### Sprint 2:
-* Objetivo: Atualizar o modelo de IA para imagens de satélite, contrução do Catálogo de Imagens no WebGIS, simplificação da API e do banco de dados e incorporação da API do Imgur como forma de armazenamento e acesso as imagens geradas pelo serviço de IA.
- 
-* Documentation
-
+* Objetivo: Atualizar o modelo de site. Aplicação das funcionalidades no site(Tela de login e voltar Home) e criação dos primeiros conteúdos(planejamento e ideias dos conteúdos do site
 * Backlog
-
-* Burndown Trend
-
-* Vídeo Explicativo
+* Site
 
 ### Sprint 3:
-* Objetivo: Melhoramento do serviço de IA com o aperfeiçoamento das redes neuraris e estabelecer conexão com o backend, Reestruturação do catalogo de imagem.
-
-* Documentation
-
+* Objetivo: Finalização e upload do conteúdo para We. Toques finais (logo, estética, cores. etc.)
 * Backlog
-
-* Burndown Trend
-
-* Vídeo Explicativo
-
+* Site
 
 ### Tecnologias utilizadas:
 * Visual Studio Code
