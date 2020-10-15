@@ -1,0 +1,106 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(135, 185, 200);
+}
+
+.header{
+    padding: 0px;
+    margin: 10px 20px 30px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.text0{
+    font: small-caps 100px "Disney";
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.text01{
+    font: small-caps 100px "Disney";
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-left: 350px;
+}
+
+.text1{
+    font: small-caps 30px "Disney";
+    font-style: italic;
+}
+   
+a:link{
+        text-decoration: none;
+    }
+
+a:hover{
+        text-decoration: un;
+    }
+
+a {
+        color: #000;
+     }
+
+a:visited {
+        color: #555;
+    }
+
+a:hover {
+        color: #999;
+    }
+
+a:active {
+        color: #333;
+    }
+
+.logos{
+    align-items: center;
+}
+
+#circulos1{
+    width: 300px;
+    height: 300px;
+    background-color: lightgreen;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+#circulos2{
+    width: 150px;
+    height: 150px;
+    background-color: lightgreen;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+#circulos3{
+    width: 250px;
+    height: 250px;
+    background-color: lightgreen;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+#circulos4{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2%;
+}
+
+.login_usando{
+    font: small-caps 35px "Disney";
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    align-items: center;
+}
