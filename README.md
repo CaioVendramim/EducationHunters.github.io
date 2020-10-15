@@ -4,7 +4,7 @@ Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal
 Sprint 0 | Sprint 1 | Sprint 2 | Sprint 3 
 
 ### O que é?
-O projeto visa criar uma plataforma e-commerce para venda de material didático. Site deve conter pelo menos 1 vídeo e 1 jogo. ]
+O projeto visa criar uma plataforma e-commerce para venda de material didático. Site deve conter pelo menos 1 vídeo e 1 jogo.
 Necessário que haja:
  * Cadastro de usuário
  * Cadastro de conteúdo
