@@ -28,7 +28,7 @@ Team Members Linkedin:
 
 
 
-#### Sprint 0:
+### Sprint 0:
 * Objetivo: Pesquisar sobre o tema proposto e criar um prótotipo para o site.
 * Backlog
 
