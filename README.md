@@ -57,3 +57,5 @@ Team Members Linkedin:
 * PhP 
 
 * MySQL para banco de dados
+
+* Planner: https://tasks.office.com/fatec.sp.gov.br/pt-BR/Home/Planner/#/plantaskboard?groupId=283d394e-54a5-40b4-9db5-afb81540a393&planId=qHpVZHlqDUisy8tJ64kNFWQACfQe
