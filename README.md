@@ -21,7 +21,7 @@ Necessário que haja:
 * CAIO AUGUSTO BARBOSA VENDRAMIM -- Developer (Front & Backend)
 
 Team Members Linkedin:
-* [Gabriel]()
+* [Gabriel](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)
 * [João]()
 * [Juliana](https://www.linkedin.com/in/juliana-francisco-433a4492)
 * [Caio](https://www.linkedin.com/in/caio-augusto-barbosa-vendramim-00813673)
