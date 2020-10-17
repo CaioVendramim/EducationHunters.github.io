@@ -34,7 +34,7 @@ Team Members Linkedin:
 
 ### Sprint 1:
 * Objetivo: Criação da página home em HTML(rosto). Definição de funcionalidades básicas e de modelo de negócio.
-* Backlog
+* [Backlog](https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_shishido_fatec_sp_gov_br/ETqTo9fY5bJLi-CQC3yCnDkB_xHvk2V2MmbvgM4dhoNmHw)
 * Site 
 
 ### Sprint 2:
@@ -59,3 +59,7 @@ Team Members Linkedin:
 * MySQL para banco de dados
 
 * Planner: https://tasks.office.com/fatec.sp.gov.br/pt-BR/Home/Planner/#/plantaskboard?groupId=283d394e-54a5-40b4-9db5-afb81540a393&planId=qHpVZHlqDUisy8tJ64kNFWQACfQe
+
+* Ppt: https://fatecspgov-my.sharepoint.com/:p:/g/personal/gabriel_shishido_fatec_sp_gov_br/EfTHfAQMIvRPvMV6merWFfABGzYKXer1_XlWjxNLJbC3oQ
+
+* Backlog: https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_shishido_fatec_sp_gov_br/ETqTo9fY5bJLi-CQC3yCnDkB_xHvk2V2MmbvgM4dhoNmHw
